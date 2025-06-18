@@ -15,4 +15,4 @@ Le script SQL ci-dessous contient :
 
 Veuillez télécharger le script SQL afin de l'insérer dans votre SGBD (comme SSMS) et l'exécuter pour obtenir toute la structure de la base de données avec les données remplies ainsi que les procédures stockées.
 
-![Script](NewaworksBDD.sql)
+![Script SQL - NexaWorks](NewaworksBDD.sql)
