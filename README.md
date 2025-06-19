@@ -13,5 +13,5 @@ Le script SQL ci-dessous contient :
 
 * Ce Script SQL utilise le langage SQL Server.
 
-Veuillez télécharger le 📥 [Script SQL](https://raw.githubusercontent.com/Alban2001/Projet6Nexaworks/main/NexaworksBDD.sql) afin de l'insérer dans votre SGBD (comme SSMS) et l'exécuter pour obtenir toute la structure de la base de données avec les données remplies ainsi que les procédures stockées.
+Veuillez télécharger le 📥 [Script SQL](https://github.com/Alban2001/Projet6Nexaworks/blob/main/NexaworksBDD.sql) afin de l'insérer dans votre SGBD (comme SSMS) et l'exécuter pour obtenir toute la structure de la base de données avec les données remplies ainsi que les procédures stockées.
 
