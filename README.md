@@ -11,7 +11,7 @@ Le script SQL ci-dessous contient :
 - Avec les informations remplies des 25 tickets en exemple
 - Procédures stockées contenant des requêtes pour afficher les informations des tickets en fonction des paramètres
 
-* Ce Script SQL utilse le langage SQL Server.
+* Ce Script SQL utilise le langage SQL Server.
 
-Veuillez télécharger le [📥 script SQL](NewaworksBDD.sql) afin de l'insérer dans votre SGBD (comme SSMS) et l'exécuter pour obtenir toute la structure de la base de données avec les données remplies ainsi que les procédures stockées.
+Veuillez télécharger le 📥 [sql](https://github.com/Alban2001/Projet6Nexaworks/blob/main/NexaworksBDD.sql)afin de l'insérer dans votre SGBD (comme SSMS) et l'exécuter pour obtenir toute la structure de la base de données avec les données remplies ainsi que les procédures stockées.
 
